@@ -1,0 +1,8 @@
+[project]
+name = "TASH"
+version = "0.0.1"
+description = "Tiver’s Algorithmic Schedule Handler"
+authors = [
+    { name = "tiver211", email = "tiver211@yandex.ru" },
+]
+dependencies = ["tabulate", "pytest"]

@@ -1,0 +1,7 @@
+name="test",
+duration=1:15:30,
+complexity=2,
+description="test12",
+deadline=2025.05.31.20.0.0,
+min_start_time=2025.05.31.20.0.0,
+duration_inaccuracy=10:00:00

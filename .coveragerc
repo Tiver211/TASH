@@ -1,0 +1,7 @@
+[run]
+omit =
+    */tests/*
+    */migrations/*
+    */__init__.py
+    */.venv/*
+    */planner.py:test_scheduler # Исключить конкретную функцию
